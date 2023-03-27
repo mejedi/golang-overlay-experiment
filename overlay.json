@@ -1,0 +1,4 @@
+{"Replace":{
+  "cmd/main/foobar.go": "overlay/cmd/main/foobar.go",
+  "cmd/main/greeting": "overlay/cmd/main/greeting"
+}}
